@@ -1,0 +1,47 @@
+/*
+  white: #FFFFFF
+  accent 1 green: #418545
+  accent 2 purple: #854181
+*/
+h {
+  color: #418545;
+}
+h1 {
+  text-align: center;
+}
+th, td {
+  border: #854181 solid 0.2em;
+  padding: 5px;
+}
+table {
+  border-collapse: collapse;
+}
+a {
+  color:#418545;
+  font-weight: bold;
+  text-decoration: none;
+}
+a:hover {
+  color:#854181;
+}
+.text {
+  background-color: #418545;
+  color: white;
+  width: 300px;
+  height: 50px;
+  padding: 2cm;
+  border: #854181 ridge 0.5cm;
+  margin: 2cm;
+}
+div {
+  background-color: #418545;
+  color: white;
+  width: 646px;
+  height: 646px;
+  padding: 2cm;
+  border: #854181 outset 0.5cm;
+  margin: 2cm;
+}
+body{
+  padding: 0.7cm;
+}
